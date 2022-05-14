@@ -31,4 +31,6 @@ int main()
 	printf("Işıl Bardakcı, 18243610028, ISE \n");
 
 	printf("Abdulkadir Karakollukci , 18243510051 , CMPE \n");
+
+	printf("Serife Gozde Mesci , 18243510015 , CMPE \n");
 }
